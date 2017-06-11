@@ -18,6 +18,5 @@ int main(){
 	str2 = str.substr(12, 8); //MNOP...
 	cout << str2 << endl;
 
-
 	return 0;
 }
